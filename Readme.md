@@ -4,7 +4,7 @@ Apart from the above, we are attaching an intermediary dataset (311_preprocessed
 We are also attaching holidays dataset from 2021 (holi_2021), 2022 (holi_2022) and 2023 (holi_2023) datasets for analysis on correlations of holidays with the complaint records.
 
 
-Our project work is categorized in the following notebooks
+This project work is categorized in the following notebooks
 1) 311_preprocessing.ipynb:
 => Contains all the preprocessing logic for the 311 dataset as well zip code dataset
 2) 311_dataAnalysis.ipynb:
@@ -17,7 +17,7 @@ Our project work is categorized in the following notebooks
 5) 311_samplingValidation.ipynb:
 => Contains the script used for validation of agency distribution of 311 dataset.
 
-We would prefer to execute the notebooks in the following order:
+Execute the notebooks in the following order:
 1) 311_preprocessing
 2) 311_dataAnalysis
 3) 311_holidaysDataAnalysis
