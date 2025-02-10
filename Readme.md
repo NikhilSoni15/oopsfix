@@ -1,7 +1,7 @@
 Here are the instructions and details about the notebooks and datasets.
 The original dataset (311_service_requests) can be downloaded from NYC Open data (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
-Apart from the above, we are attaching an intermediary dataset (311_preprocessed_dataset) for reproducibility of our Data Analysis, Modelling and other notebooks.
-We are also attaching holidays dataset from 2021 (holi_2021), 2022 (holi_2022) and 2023 (holi_2023) datasets for analysis on correlations of holidays with the complaint records.
+Apart from the above, I am attaching an intermediary dataset (311_preprocessed_dataset) for reproducibility of my Data Analysis, Modelling and other notebooks.
+Also attaching holidays dataset from 2021 (holi_2021), 2022 (holi_2022) and 2023 (holi_2023) datasets for analysis on correlations of holidays with the complaint records.
 
 
 This project work is categorized in the following notebooks
